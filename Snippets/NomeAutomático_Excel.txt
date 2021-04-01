@@ -1,0 +1,1 @@
+=EXT.TEXTO(CÉL("nome.arquivo"); PROCURAR("[";CÉL("nome.arquivo"); 1)+1; ((LOCALIZAR(".xlsx"; CÉL("nome.arquivo"); 1))-(PROCURAR("[";CÉL("nome.arquivo"); 1)+1)))
